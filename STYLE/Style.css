@@ -1,0 +1,25 @@
+body{
+    background-color: #D9320D;
+    text-align: center;
+}
+#encabezado{
+    background-color: #590505;
+    color: #F2CD5C;
+    border-radius: 30px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 5px 0px;
+
+}
+#contenedor{
+    color: #F2CD5C;
+    background-color: #F20732;
+    border: 1px #F2CD5C solid;
+    border-radius: 30px;
+    padding: 10px 10px 15px 10px;
+}
+#sub_registro{
+    border-radius: 30px;
+    color: #590505;
+    border: 1px #590505 solid;
+    background-color: #F2CD5C;
+}
